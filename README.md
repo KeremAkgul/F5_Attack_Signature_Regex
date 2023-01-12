@@ -26,3 +26,5 @@ rest_uuid,
 flg_has_valuecontent_plain_text,
 flg_has_responsecontent,
 flg_has_cve,
+
+Resource : https://support.f5.com/csp/article/K99615376
